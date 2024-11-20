@@ -1,24 +1,36 @@
-THE PROJECT
-This is a basic recipe website done as part of the Odin Project's Foundations Course.
+# Recipe Website
 
-It currently contains:
+This is a basic recipe website created as part of the Odin Project's Foundations Course.
 
-An extremely simple homepage index.html
-A page for Ifisashi Zambian Food recipe ifisashi.html
-A page for Ubowa recipe ubowa.html
-A page for Katapa cassava leaves with groundnuts recipe katapa.html
-The deployed site can be viewed here.
+## Features
 
-CONCEPTS IMPLEMENTED
+The website currently contains:
 
-This project is currently coded completely in HTML. From what I learnt on the Odin Project, I practiced:
+- An extremely simple homepage: `index.html`
+- A page for Ifisashi Zambian Food recipe: `ifisashi.html`
+- A page for Ubowa recipe: `ubowa.html`
+- A page for Katapa (cassava leaves with groundnuts) recipe: `katapa.html`
 
-Working with a standard HTML boilerplate.
-Using anchor tags <a></a> complete with attributes such as href.
-Using ordered and unordered lists (<ol></ol> & <ul></ul>) and <li></li> list item tags.
-Using image tags <img> with src, alt and width attributes.
-Working with relative links.
-Using various heading tags e.g <h1> and <h2> as well as paragraph tags <p>.
-Working with the terminal.
-Using Git and GitHub for version history management for my project.
-And more beginner level coding skills here and there.
+## Concepts Implemented
+
+This project is entirely coded in HTML. Here are the key concepts I practiced while building it:
+
+- Setting up a standard HTML boilerplate.
+- Working with anchor tags (`<a>`) complete with attributes such as `href`.
+- Using ordered (`<ol>`) and unordered (`<ul>`) lists and list item tags (`<li>`).
+- Embedding images using `<img>` tags with `src`, `alt`, and `width` attributes.
+- Implementing relative links.
+- Utilizing various heading tags (e.g., `<h1>`, `<h2>`) and paragraph tags (`<p>`).
+- Navigating and working with the terminal.
+- Using Git and GitHub for version control and managing project history.
+- Applying beginner-level coding skills to create a functional project.
+
+## Future Improvements
+
+- Implementing CSS for better styling and design.
+- Adding more recipes to expand the website's content.
+- Improving navigation with a better menu or layout.
+
+---
+
+Thank you for viewing my project! Feedback is always welcome.
