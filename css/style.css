@@ -1,0 +1,53 @@
+*,
+::before,
+::after
+{
+    box-sizing: border-box;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: fantasy;
+}
+body
+{
+    background-color:khaki;
+    margin: 20px 500px;
+    text-align: center;
+}
+
+h1
+{
+    color: #ff50b6;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul li
+{
+    background-color: rgb(248, 212, 255);
+    padding: 50px;
+    margin: 20px;
+    list-style: none;
+    border-radius: 20px;
+    box-shadow: rgba(229, 0, 250, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(245, 145, 145, 0.17) 0px 12px 13px, rgba(146, 0, 146, 0.09) 0px -3px 5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    border: 2px solid rgb(205, 0, 219);
+    border-radius: 15px;
+}
+
+ul li a:hover
+{
+    background-color: rgb(160, 90, 252);
+    color: antiquewhite;
+}
