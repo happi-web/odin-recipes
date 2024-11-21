@@ -1,23 +1,36 @@
-This project is part of the assignment I did with TOP. Its one of the first assignment i did while learning the basics of html. Here are the instructions we were given 
-Iteration 1: initial structure
-Within the odin-recipes directory, create an index.html file.
-Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
-Iteration 2: recipe page
-Create a new directory within the odin-recipes directory and name it recipes.
-Create a new HTML file within the recipes directory and name it after the recipe it will contain. For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can find a recipe to use at Allrecipes. Be sure to include the usual boilerplate HTML. This boilerplate code should be in every .html file you create.
-For now, just include an h1 heading with the recipe’s name as its content.
-Back in the index.html file, add a link to the recipe page you just created. Example: Under the <h1>Odin Recipes</h1> heading, write out the link like so: <a href="recipes/recipename.html">Recipe Title</a>. The text of the link should again be the recipe name.
-Iteration 3: recipe page content
-Your new recipe page should have the following content:
+# Recipe Website
 
-An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on Google or Allrecipes.
+This is a basic recipe website created as part of the Odin Project's Foundations Course.
 
-Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
+## Features
 
-Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
+The website currently contains:
 
-Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
+- An extremely simple homepage: `index.html`
+- A page for Ifisashi Zambian Food recipe: `ifisashi.html`
+- A page for Ubowa recipe: `ubowa.html`
+- A page for Katapa (cassava leaves with groundnuts) recipe: `katapa.html`
 
-Iteration 4: add more recipes
-Add two more recipes with identical page structures to the recipe page you’ve already created.
-Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+## Concepts Implemented
+
+This project is entirely coded in HTML. Here are the key concepts I practiced while building it:
+
+- Setting up a standard HTML boilerplate.
+- Working with anchor tags (`<a>`) complete with attributes such as `href`.
+- Using ordered (`<ol>`) and unordered (`<ul>`) lists and list item tags (`<li>`).
+- Embedding images using `<img>` tags with `src`, `alt`, and `width` attributes.
+- Implementing relative links.
+- Utilizing various heading tags (e.g., `<h1>`, `<h2>`) and paragraph tags (`<p>`).
+- Navigating and working with the terminal.
+- Using Git and GitHub for version control and managing project history.
+- Applying beginner-level coding skills to create a functional project.
+
+## Future Improvements
+
+- Implementing CSS for better styling and design.
+- Adding more recipes to expand the website's content.
+- Improving navigation with a better menu or layout.
+
+---
+
+Thank you for viewing my project! Feedback is always welcome.
