@@ -1,0 +1,68 @@
+*,
+::before,
+::after
+{
+    box-sizing: border-box;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: fantasy;
+}
+
+body
+{
+    background-color:khaki;
+    margin: 20px 200px;
+    text-align: center;
+}
+
+h1
+{
+    color: #ff50b6;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px;
+}
+img
+{
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+}
+
+h3{
+    color: #3a0122;
+    font-weight: 800;
+    text-align: left;
+    text-transform: uppercase;
+    margin: 10px;
+}
+.subtitle
+{
+    text-align: center;
+}
+p
+{
+    padding: 10px;
+    font-size: 18px;
+    text-align: left;
+}
+.list-items
+{
+    padding-left: 50px;
+}
+ul li
+{
+    text-align: left;
+    padding: 5px;
+
+}
+
+ol li 
+{
+    text-align: left;
+    padding: 5px;
+}
