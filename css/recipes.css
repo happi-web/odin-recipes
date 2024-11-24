@@ -14,8 +14,10 @@
 body
 {
     background-color:khaki;
-    margin: 20px 200px;
+    max-width: 50%;
+    max-height: fit-content;
     text-align: center;
+    margin: 0 auto;
 }
 
 h1
